@@ -16,7 +16,7 @@ setup(
         'Cython',
         'cooler',
         'cooltools',
-        'scikit-learn==0.20.3',
+        'scikit-learn==1.5.0',
         'seaborn==0.9.0',
         'matplotlib',
     ]
